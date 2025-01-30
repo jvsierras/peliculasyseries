@@ -1,3 +1,3 @@
 <?php
-$apikey = 'TMDB_API_KEY_GOES_HERE';
+$apikey = '7787dd5dc689453346d1bca794089006';
 ?>
